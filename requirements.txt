@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+lightgbm
+ortools
+pyarrow
+fastparquet
+scikit-learn
+matplotlib
+jpholiday

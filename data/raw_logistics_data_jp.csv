@@ -1,0 +1,6 @@
+"Date","Origin_Prefecture","Destination_Prefecture","Vehicle_Type","Cargo_Weight_Tons","Status"
+"2023-04-01","東京都","大阪府","Large_Truck",12.5,"Completed"
+"2023-04-01","神奈川県","愛知県","Medium_Truck",4.2,"Delayed"
+"2023-04-02","北海道","東京都","Refrigerated",8.0,"Completed"
+"2023-04-02","福岡県","広島県","Large_Truck",10.1,"On_Time"
+"2023-04-03","埼玉県","千葉県","Light_Van",1.5,"Completed"
